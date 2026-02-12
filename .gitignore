@@ -1,0 +1,26 @@
+# Airflow logs and runtime
+logs/
+airflow-webserver.pid
+airflow.db
+webserver_config.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
