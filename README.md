@@ -48,6 +48,11 @@ Connections (Admin -> Connections):
 
 ![Market liquidity dashboard](powerbi/sc/market_liquidity.png)
 
+
+## Airflow Dag
+
+![Airflow dag](screenshots/airflow_dag.png)
+
 ## Useful Commands
 
 ```bash
@@ -56,5 +61,4 @@ docker-compose logs -f airflow
 docker-compose logs -f postgres
 docker-compose restart
 docker-compose down
-docker-compose down -v
 ```
