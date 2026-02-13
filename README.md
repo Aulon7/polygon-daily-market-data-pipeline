@@ -36,6 +36,7 @@ Connections (Admin -> Connections):
 - `snowflake_default`
 ## Architecture 
 
+   ![Project diagram](screenshots/polygon_api_arch_diagram.png)
 
 ## Assets
 
